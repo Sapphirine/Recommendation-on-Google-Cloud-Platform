@@ -1,0 +1,3 @@
+This fold is the data I processed including the feature extracted and some of important numpy array and dictionary
+
+But some of the file is too big, because of the feature extracted based on VGG(deep learning is too big), so you can check the data_proc.ipynb to generate the needed file
